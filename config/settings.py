@@ -26,7 +26,7 @@ SECRET_KEY = 'xhk=pj$))hpv6lm86vm(lydlluf3y)cd#ltpf^qgkrj#^0jb4a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
